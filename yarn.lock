@@ -1906,16 +1906,16 @@
   integrity sha512-0d5Wd09ItQWH1qFbEyQ7oTQ3GZrMfth5JkbN3EvTKLXcHLRDSXeLnlvlOn0wvxVIwK5o2M8JzP/OWz7T3NRsbw==
 
 "@types/lunr@^2.3.3":
-  version "2.3.3"
-  resolved "https://registry.npmjs.org/@types/lunr/-/lunr-2.3.3.tgz"
-  integrity sha512-09sXZZVsB3Ib41U0fC+O1O+4UOZT1bl/e+/QubPxpqDWHNEchvx/DEb1KJMOwq6K3MTNzZFoNSzVdR++o1DVnw==
+  version "2.3.7"
+  resolved "https://registry.yarnpkg.com/@types/lunr/-/lunr-2.3.7.tgz#378a98ecf7a9fafc42466f67f73173c34a6265a0"
+  integrity sha512-Tb/kUm38e8gmjahQzdCKhbdsvQ9/ppzHFfsJ0dMs3ckqQsRj+P5IkSAwFTBrBxdyr3E/LoMUUrZngjDYAjiE3A==
 
 "@types/mdast@^3.0.0":
-  version "3.0.3"
-  resolved "https://registry.npmjs.org/@types/mdast/-/mdast-3.0.3.tgz"
-  integrity sha512-SXPBMnFVQg1s00dlMCc/jCdvPqdE4mXaMMCeRlxLDmTAEoegHT53xKtkDnzDTOcmMHUfcjyf36/YYZ6SxRdnsw==
+  version "3.0.15"
+  resolved "https://registry.yarnpkg.com/@types/mdast/-/mdast-3.0.15.tgz#49c524a263f30ffa28b71ae282f813ed000ab9f5"
+  integrity sha512-LnwD+mUEfxWMa1QpDraczIn6k0Ee3SMicuYSSzS6ZYl2gKS09EClnJYGd8Du6rfc5r/GZEk5o1mRb8TaTj03sQ==
   dependencies:
-    "@types/unist" "*"
+    "@types/unist" "^2"
 
 "@types/mdurl@^1.0.0":
   version "1.0.2"
@@ -2035,6 +2035,11 @@
   version "2.0.3"
   resolved "https://registry.npmjs.org/@types/unist/-/unist-2.0.3.tgz"
   integrity sha512-FvUupuM3rlRsRtCN+fDudtmytGO6iHJuuRKS1Ss0pG5z8oX0diNEw94UEL7hgDbpN94rgaK5R7sWm6RrSkZuAQ==
+
+"@types/unist@^2":
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.10.tgz#04ffa7f406ab628f7f7e97ca23e290cd8ab15efc"
+  integrity sha512-IfYcSBWE3hLpBg8+X2SEa8LVkJdJEkT2Ese2aaLs3ptGdVtABxndrMaxuFlQ1qdFf9Q5rDvDpxI3WwgvKFAsQA==
 
 "@types/yargs-parser@*":
   version "20.2.0"
